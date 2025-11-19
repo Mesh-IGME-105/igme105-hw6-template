@@ -1,6 +1,6 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 
-# IGME-105 Homework 5 - YOUR NAME
+# IGME-105 Homework 6 - YOUR NAME
 
 ## Release Notes
 ### Final Status
